@@ -61,7 +61,7 @@ The SER model is built using a combination of CNN and LSTM layers:
     cd speech-emotion-recognition
     ```
 
-2. **Run the Speech emotion recognition file **: it will do the rest work
+2. **Run the Speech emotion recognition file**: it will do the rest work
     ```bash
     Speech_Emotion_Recognition.ipynb
     ```
