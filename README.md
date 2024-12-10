@@ -53,19 +53,6 @@ The SER model is built using a combination of CNN and LSTM layers:
 - **Training Accuracy**: 87%
 - **Validation Accuracy**: 78%
 
-## 🤔 How to Run
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/speech-emotion-recognition.git
-    cd speech-emotion-recognition
-    ```
-
-2. **Run the Speech emotion recognition file**: it will do the rest work
-    ```bash
-    Speech_Emotion_Recognition.ipynb
-    ```
-
 ## Conclusion
 
 This project demonstrates the power of combining CNNs and LSTMs for the task of speech emotion recognition. While the model performs exceptionally well on the Torento Emotion Speech Set, there is room for improvement when generalizing to a broader dataset. Future work could explore different architectures, feature engineering techniques, and data augmentation strategies.
